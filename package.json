@@ -13,8 +13,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "@vue/compiler-sfc": "^3.0.0",
-    "vue": "^3.0.0"
+    "axios": "^0.27.2",
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.12"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.10.0",
